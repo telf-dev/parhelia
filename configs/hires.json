@@ -1,0 +1,18 @@
+{
+    "as_w": 16.0,
+    "as_h": 9.0,
+    "im_width": 512,
+    "samples_per_pixel": 500,
+    "max_depth": 60,
+    "lookfrom":  {
+        "e": [0.0, 0.0, 0.0]
+    } ,
+    "lookat": {
+        "e": [0.0, 0.0, -1.0]
+    },
+    "vup": {
+        "e": [0.0, 1.0, 0.0]
+    },
+    "aperture": 0.0,
+    "vfov": 90.0
+}
