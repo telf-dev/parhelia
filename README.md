@@ -1,6 +1,6 @@
 ﻿
-This is a small raytracer based on Raytracing in One Weekend, mainly for practising Rust 
-and learning computer graphics stuff.
+This is a small raytracer based on Raytracing in One Weekend, written to practise Rust 
+and learn a bit about computer graphics.
 
 ## Features:
 
