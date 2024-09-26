@@ -13,7 +13,7 @@ think ceramic cups, bathroom tiles etc) scattering
 ## Usage
 From the top directory, compile with `cargo build -r`. Run with `./release/raytracer [config filepath] [scene number] > image.ppm`. Load the output in a ppm viewer, e.g. [here](https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html)
 
-Scene number is 1 or 2; 1 displays a specular, diffuse and dielectric example, 2 displays a phongian example. Alternatively, alter the scene code!
+Scene number may be set to 1 or 2; 1 displays a specular, diffuse and dielectric example, 2 displays a phongian example. Alternatively, alter the scene code!
 
 The position, focus and field of view of the camera, as well as the number of samples per pixel and the max ray scatters, are read from a given JSON file - 
 ./config/hires.json and ./config/lowres.json are included in the repo. More samples results in higher granularity in the final image, more scattering
